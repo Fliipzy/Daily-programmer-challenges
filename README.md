@@ -1,4 +1,4 @@
 # Daily-programmer-challenges
-Programming challenges from /r/DailyProgrammer
+Programming challenges from <link>/r/DailyProgrammer</link>
 
-http://www.reddit.com/r/dailyprogrammer
+
