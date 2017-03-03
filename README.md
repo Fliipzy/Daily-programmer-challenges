@@ -1,4 +1,4 @@
 # Daily-programmer-challenges
-Programming challenges from <b>Hello</b>
+Programming challenges from www.reddit.com/r/DailyProgrammer
 
 
